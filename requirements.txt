@@ -4,7 +4,7 @@ aiohttp==3.10.11
 aiopg==0.15.0
 aioredis==1.2.0
 async-timeout==3.0.1     
-attrs==18.2.0             # via aiohttp
+attrs==25.3.0             # via aiohttp
 chardet==3.0.4            # via aiohttp
 hiredis==0.3.1            # via aioredis
 idna==3.7                 # via yarl
